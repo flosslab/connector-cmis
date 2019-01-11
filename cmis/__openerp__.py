@@ -22,7 +22,7 @@
 
 {
     'name': 'CMIS',
-    'version': '7.0.1.1.0',
+    'version': '8.0.1.1.0',
     'category': 'Connector',
     'summary': 'Connect OpenERP with a CMIS server',
     'description': """

@@ -22,7 +22,7 @@
 
 {
     'name': 'CMIS Write',
-    'version': '7.0.1.0.0',
+    'version': '8.0.1.0.0',
     'category': 'Knowledge Management',
     'summary': 'Create Document in DMS from Odoo/OpenERP',
     'description': """
